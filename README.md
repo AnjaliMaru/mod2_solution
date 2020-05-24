@@ -1,2 +1,2 @@
-# mod2_solution.html
+# mod2_solution
 module2
