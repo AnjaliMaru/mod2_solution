@@ -35,13 +35,13 @@
 	border-top: 0;
 }
 #box1{
-	background-color: Azure;
+	background-color: #808000;
 }
 #box2{
-	background-color: Bisque;
+	background-color: #F0F8FF;
 }
 #box3{
-	background-color: FloralWhite;
+	background-color: #F8F8FF;
 }
 @media(max-width: 768px)
 {
